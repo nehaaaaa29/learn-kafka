@@ -1,4 +1,4 @@
-kafka.topic.user-random_topic: user-random-topic
+kafka.topic.user-random-topic: user-random-topic
 
 spring:
   kafka:
